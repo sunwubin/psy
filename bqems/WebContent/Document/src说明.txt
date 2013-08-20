@@ -1,0 +1,8 @@
+cdu.bean---放项目的实体
+cdu.dao ---放数据库的操作
+cdu.filter-放项目拦截器
+cdu.listener--放项目的监听器
+cdu.service---放项目中的servlet
+cdu.socketserver--放项目的udp服务器代码
+cdu.utils---放项目使用的工具类
+cdu.utils.sms---放短信相关类

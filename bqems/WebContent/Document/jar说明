@@ -1,0 +1,15 @@
+========================
+1、restful外部依赖包@
+
+asm-3.1.jar
+jersey-clinet-1.5.jar
+jersey-core.jar
+jersey-json.jar
+jersey-server.jar
+jettison.jar
+jsr311-api.jar
+==========================
+2、jdbc依赖包@
+
+mysql-connector-java.jar
+==========================
